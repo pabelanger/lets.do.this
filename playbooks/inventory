@@ -1,0 +1,5 @@
+[bastion]
+bastion ansible_connection=local
+
+[diskimage-builder]
+dib01 ansible_host=127.0.1.1
